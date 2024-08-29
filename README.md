@@ -5,8 +5,8 @@
 - Paraíba, Brasil
   ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liidys&show_icons=true&theme=chartreuse-dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liidys&hide_progress=true&theme=chartreuse-dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liidys&show_icons=true&theme=chartreuse-dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liidys&hide_progress=true&theme=chartreuse-dark)-->
 <hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
