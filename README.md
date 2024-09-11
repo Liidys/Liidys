@@ -1,7 +1,7 @@
 ## Olá, sou Jakeline Silva
 
 
-- Altualmente sou estudante do 5° período  Análise e Desenvolvimento de Sistemas.
+- Atualmente cursando Tecnólogo em Análise e Desenvolvimento de sistemas. Estou em transicao de carreira para área de TI.
 - Paraíba, Brasil
   ##
 
