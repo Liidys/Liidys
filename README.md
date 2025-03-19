@@ -1,7 +1,8 @@
 ## Olá, sou Jakeline Silva
 
 
-- Atualmente cursando Tecnólogo em Análise e Desenvolvimento de sistemas. Estou em transicao de carreira para área de TI.
+- Atualmente formada em Análise e Desenvolvimento de sistemas.
+- Minhas áreas de interesse são: redes, DeOVops e Engenharia de dados.
 - Paraíba, Brasil
   ##
 
