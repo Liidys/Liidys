@@ -3,7 +3,8 @@
 
 - Atualmente formada em Análise e Desenvolvimento de sistemas.
 - Minhas áreas de interesse são: redes, DeOVops e Engenharia de dados.
-- Paraíba, Brasil
+- Atualmente aprofundando meus conhecimentos em Linux e Cloud.
+📍Paraíba, Brasil
   ##
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liidys&show_icons=true&theme=chartreuse-dark) 
