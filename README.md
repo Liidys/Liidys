@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Atualmente formada em Análise e Desenvolvimento de sistemas.
-- 🔎 Minhas áreas de interesse são: redes, DeOVops e Engenharia de dados.
+- 🔎 Minhas áreas de interesse são: redes, DevOps e Engenharia de dados.
 - 📚 Atualmente aprofundando meus conhecimentos em Linux e Cloud.
 -📍Paraíba, Brasil
   ##
